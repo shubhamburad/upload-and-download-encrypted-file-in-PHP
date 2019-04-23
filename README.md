@@ -9,4 +9,4 @@ files are store in encrypted format in upload folder.
 you can also download the files directly from the browser.
 upload folder contain the encrypted file and download folder contain decrypted files 
 
-happy coding!
+Happy coding!
